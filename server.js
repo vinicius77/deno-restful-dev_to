@@ -5,5 +5,3 @@ import app from "./app.js";
 
 console.log(`Listening on ${HOST}:${PORT}`);
 await app.listen(`${HOST}:${PORT}`);
-
-/** deno run --allow-net --allow-env  app.js */
