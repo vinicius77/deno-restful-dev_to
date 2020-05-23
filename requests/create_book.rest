@@ -1,0 +1,8 @@
+POST http://127.0.0.1:5000/javascript/books
+Content-type: application/json
+
+{
+	"title": "A Smarter Way to Learn JavaScript: The new tech-assisted approach that requires half the effort",
+    "author": "Mark Myers",
+    "url": "https://hackr.io/blog/javascript-books"
+}

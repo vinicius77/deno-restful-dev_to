@@ -1,0 +1,8 @@
+PUT http://127.0.0.1:5000/javascript/books/3
+Content-type: application/json
+
+{
+	"title": "Eloquent JavaScript: A Modern Introduction to Programming",
+    "author": "Marjin Haverbeke",
+    "url": "https://marijnhaverbeke.nl"
+}
